@@ -1,4 +1,4 @@
-# counting-fingers
+# counting no of fingers using cv
 real-time cv project that detects and counts fingers raised through the camera
 #Tech Used
 1. Python
