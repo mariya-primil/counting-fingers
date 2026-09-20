@@ -5,6 +5,6 @@ real-time cv project that detects and counts fingers raised through the camera
 2. OpenCV
 3. MediaPipe
 
-How it works
-Camera → Hand Detection → Landmark Detection → Finger Position Analysis → Count
+How it works : 
+camera → hand detection → landmark detection → finger position analysis → count
 
